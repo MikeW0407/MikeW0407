@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- -->
-**MikeW0407/MikeW0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MikeW0407/MikeW0407** is a ✨ _senior_ ✨ full-stack developer with a decade of experience.
 
 Here are some ideas to get you started:
 
